@@ -7,6 +7,7 @@ Can we predict if a participant has sought treatment for a mental health conditi
 Answering this question can help companies provide more effective support for those who might not otherwise seek out help and/or for mental health professionals who work with individuals in the tech industry.
 
 ## Notebook
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michellejc/ML_Lab_FinalProject/Modeling_Notebook.ipynb)
 
 ## Table of Contents
 - Data Description 
