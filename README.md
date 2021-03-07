@@ -1,4 +1,4 @@
-# ML Lab Final Project: Mental Health in the Tech Industry
+# Mental Health in the Tech Industry
 By: Michelle JanneyCoyle, Masters of Data Science student at the Universtity of San Francisco (class of 2021)
 
 ## Research Question
