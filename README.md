@@ -38,7 +38,7 @@ The next step uses Randomized Search CV to tune the hyperparameters for each of 
 
 After selecting a candidate model I explore feature importance by running permutation importance and selecting the top ten features by mean importance (seen below). These importance are relative to this model, however they may be a helpful indicator for future modeling and/or for those interested in helping individuals in the tech industry seek help 
 
-<img width="1393" alt="Screen Shot 2021-03-07 at 2 27 34 PM" src="https://user-images.githubusercontent.com/67610529/110257132-44e6ff80-7f51-11eb-97ae-f23804759976.png">
+<img width="1135" alt="Screen Shot 2021-03-11 at 7 25 37 PM" src="https://user-images.githubusercontent.com/67610529/110887679-92d86c00-829f-11eb-80c1-bef228e1372f.png">
 
 ## Takeaways 
 The final f1 and ROC scores (seen on the right suggest that predicting if someone has sought treatment from survey responses is possible. This is a positive outcome because it means that it is possible for companies to understand their staff through surveys and implement additional programming to help increase occurrences of seeking help.
