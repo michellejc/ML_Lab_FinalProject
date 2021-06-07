@@ -21,7 +21,7 @@ kaggle: https://www.kaggle.com/osmi/mental-health-in-tech-survey/data
 The dataset from kaggle is a CSV of survey responses collected in 2014. The survey asked questions related to work environment and mental health. There are 26 features and 1259 rows
 
 ## Data Preprocessing
-The data set is fairly clean so it necessitated fairly little cleaning. In my analysis I drop Comments, State, and Work_interfere because they feature a significant number of missing values. I also choose to exclude timestamp because I do not want time to confound the findings.  Age is binned into 7 categories. 
+The data set is more or less clean so it necessitated fairly little cleaning. In my analysis I drop Comments, State, and Work_interfere because they feature a significant number of missing values. I also choose to exclude timestamp because I do not want time to confound the findings.  Age is binned into 7 categories. 
 
 ## Metrics
 I selected the F1 measure as my first evaluation metric. I choose the F1 score because it balances precision and recall for the binary classification, which I feel is appropriate because I do not wish to prioritize precision or recall over the other. Furthermore it's values are always between 0 and 1 with values closer to 1 being better, which I feel is a simple and easy to interpret measure of this model.
